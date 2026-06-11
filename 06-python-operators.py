@@ -1,0 +1,45 @@
+# arithmatic operators
+x = 15
+y = 4
+
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
+print(x ** y)
+print(x // y)
+
+# assignment operators
+
+
+
+# comparison operators
+x = 5
+y = 3
+
+print(x == y)
+print(x != y)
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+
+
+x = 5
+
+print(1 < x < 10)
+
+print(1 < x and x < 10)
+
+
+
+print(" LOGICAL OPERATORS")
+x = 5
+
+print(x > 0 and x < 10)
+
+
+x = 5
+
+print(x < 5 or x > 10)
